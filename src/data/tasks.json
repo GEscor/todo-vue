@@ -1,0 +1,46 @@
+{ 
+
+    "task1" : { 
+      "id": 1,
+      "taskName": "купить еды", 
+      "description": "хлеб, масло, молоко, вафли",
+      "priority": "med",
+      "endTime": "20:20",
+      "endDate": "2019-07-17",
+      "visible": false,
+      "done" : false
+    },
+    
+    "task2" : { 
+      "id": 2,
+      "taskName": "погулять с собакой", 
+      "description": null,
+      "priority": "high",
+      "endTime": null,
+      "endDate": "2019-07-17",
+      "visible": false,
+      "done" : false
+    },
+
+    "task3" : { 
+      "id": 3,
+      "taskName": "уборка дома", 
+      "description": "помыть полы, протереть пыль, выкинуть мусор",
+      "priority": "low",
+      "endTime": null,
+      "endDate": null,
+      "visible": false,
+      "done" : false
+    },
+
+    "task4" : { 
+      "id": 4,
+      "taskName": "почитать книгу", 
+      "description": null,
+      "priority": "med",
+      "endTime": "16:30",
+      "endDate": null,
+      "visible": false,
+      "done" : false
+    } 
+}
